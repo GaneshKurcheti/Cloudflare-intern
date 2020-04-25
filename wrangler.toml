@@ -1,0 +1,6 @@
+name = "shylnk"
+type = "javascript"
+account_id = "27b104d93d07d6ad65d539ec4a1b4df9"
+workers_dev = true
+route = ""
+zone_id = ""
